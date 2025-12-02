@@ -1,0 +1,151 @@
+Activity,Subtype,Intensity,Duration (min),Distance (km),METs,50 kg (110 lb),60 kg (132 lb),70 kg (154 lb),80 kg (176 lb),90 kg (198 lb),100 kg (220 lb),120 kg (265 lb)
+Sleeping,,Very Low,60,,0.95,41,49,57,65,73,81,97
+Sitting,Office work,Very Low,60,,1.3,60,72,84,96,108,120,144
+Sitting,Watching TV,Very Low,60,,1.2,55,66,77,88,99,110,132
+Standing still,,Very Low,60,,1.8,75,90,105,120,135,150,180
+Driving,Car,Low,60,,2.4,100,120,140,160,180,200,240
+Driving,Motorcycle,Low,60,,2.0,85,102,119,136,153,170,204
+Housework,Cooking,Light,60,,2.8,125,150,175,200,225,250,300
+Housework,Washing Dishes,Light,60,,2.3,95,114,133,152,171,190,228
+Shopping,Walking,Low,60,2,3.0,150,180,210,240,270,300,360
+Walking,Very slow,Very Low,60,3.2,2.5,120,144,168,192,216,240,288
+Walking,Normal pace,Low,60,4.8,3.8,185,222,259,296,333,370,444
+Walking,Fast,Moderate,60,6.4,5.0,275,330,385,440,495,550,660
+Walking,Upstairs,Moderate,60,,8.0,400,480,560,640,720,800,960
+Jogging,Slow,Moderate,60,8,8.0,400,480,560,640,720,800,960
+Running,9.6 km/h (6 mph),Vigorous,60,9.6,10.5,525,630,735,840,945,"1,050","1,260"
+Running,11.2 km/h (7 mph),Vigorous,60,11.2,12.5,650,780,910,"1,040","1,170","1,300","1,560"
+Running,12.8 km/h (8 mph),Vigorous,60,12.8,14.0,775,930,"1,085","1,240","1,395","1,550","1,860"
+Running,14.5 km/h (9 mph),Very Vigorous,60,14.5,16.0,900,"1,080","1,260","1,440","1,620","1,800","2,160"
+Running,Sprinting (16+ km/h),Very Vigorous,60,16,18.0,"1,100+","1,320+","1,540+","1,760+","1,980+","2,200+","2,640+"
+Cycling,Leisure,Moderate,60,16,6.0,300,360,420,480,540,600,720
+Cycling,Fast road,High,60,24,10.0,500,600,700,800,900,"1,000","1,200"
+Cycling,Spin class,Very High,60,,11.0,"550–750","660–900","770–1,050","880–1,200","990–1,350","1,100–1,500","1,320–1,800"
+Swimming,Freestyle slow,Moderate,60,1.5,6.0,350,420,490,560,630,700,840
+Swimming,Freestyle fast,Vigorous,60,2,10.0,550,660,770,880,990,"1,100","1,320"
+Swimming,Butterfly stroke,Very Vigorous,60,2.2,13.8,700,840,980,"1,120","1,260","1,400","1,680"
+Jumping rope,100 jumps/min,High,60,,12.3,500,600,700,800,900,"1,000","1,200"
+Jumping rope,140+ jumps/min,Very High,60,,16.0,750,900,"1,050","1,200","1,350","1,500","1,800"
+Weight lifting,Moderate effort,Moderate,60,,6.0,250,300,350,400,450,500,600
+Weight lifting,"Heavy squats/deadlifts",Very High,60,,8.0,"400–550","480–660","560–770","640–880","720–990","800–1,100","960–1,320"
+Burpees,Continuous,Very High,60,,10.0,"600–800","720–960","840–1,120","960–1,280","1,080–1,440","1,200–1,600","1,440–1,920"
+Kettlebell swings,Intense,High,60,,9.8,650,780,910,"1,040","1,170","1,300","1,560"
+Rock climbing,Moderate,Moderate,60,,7.0,450,540,630,720,810,900,"1,080"
+Rock climbing,Hard bouldering,Very High,60,,10.0,"600–750","720–900","840–1,050","960–1,200","1,080–1,350","1,200–1,500","1,440–1,800"
+Tennis,Singles competitive,Moderate,60,5,7.3,"450–600","540–720","630–840","720–960","810–1,080","900–1,200","1,080–1,440"
+Basketball,Full court,High,60,,8.0,"500–700","600–840","700–980","800–1,120","900–1,260","1,000–1,400","1,200–1,680"
+Soccer,Competitive match,High,60,8,10.0,"550–750","660–900","770–1,050","880–1,200","990–1,350","1,100–1,500","1,320–1,800"
+Boxing,Sparring/bag work,Very High,60,,12.0,"600–850","720–1,020","840–1,190","960–1,360","1,080–1,530","1,200–1,700","1,440–2,040"
+Skiing,Downhill moderate,Moderate,60,7,6.0,350,420,490,560,630,700,840
+Skiing,Cross-country vigorous,Very High,60,13,13.5,750,900,"1,050","1,200","1,350","1,500","1,800"
+Snowboarding,Intense,High,60,,8.0,"400–550","480–660","560–770","640–880","720–990","800–1,100","960–1,320"
+Yoga,Gentle/Hatha,Low,60,,2.5,150,180,210,240,270,300,360
+Yoga,Power/Vinyasa,Moderate,60,,4.0,"300–450","360–540","420–630","480–720","540–810","600–900","720–1,080"
+Rowing,Moderate,Moderate,60,10,7.0,310,372,434,496,558,620,744
+Rowing,Intense,High,60,12,12.0,530,636,742,848,954,1,060,1,272
+Elliptical,Moderate,Moderate,60,7,5.0,225,270,315,360,405,450,540
+Elliptical,Intense,High,60,9,8.0,340,408,476,544,612,680,816
+Climbing stairs,Slow,High,60,0.5,8.0,400,480,560,640,720,800,960
+Hiking,Moderate,High,60,7,7.0,295,354,413,472,531,590,708
+Pilates,Mat,Low,60,,3.0,110,132,154,176,198,220,264
+Dancing,Zumba,High,60,,8.5,350,420,490,560,630,700,840
+Martial arts,Karate,Very High,60,,10.0,620,744,868,992,1,116,1,240,1,488
+Climbing stairs,Fast,Very High,60,0.7,10.0,485,582,679,776,873,970,1,164
+Golf,With cart,Low,60,6,3.8,170,204,238,272,306,340,408
+Golf,Carrying clubs,Moderate,60,6,4.8,215,258,301,344,387,430,516
+Cleaning,Floors (mopping),Light,60,,3.5,110,132,154,176,198,220,264
+Rugby,Game,Very High,60,7,12.5,600,720,840,960,1,080,1,200,1,440
+Squash,Game,Very High,60,,12.0,735,882,1,029,1,176,1,323,1,470,1,764
+Badminton,Recreational,Moderate,60,,4.5,210,252,294,336,378,420,504
+Table Tennis,,Light,60,,4.0,175,210,245,280,315,350,420
+Frisbee,Leisure,Moderate,60,,5.0,225,270,315,360,405,450,540
+Horseback Riding,Walking,Low,60,6,3.8,150,180,210,240,270,300,360
+Horseback Riding,Trotting,Moderate,60,9,5.8,250,300,350,400,450,500,600
+Skateboarding,Moderate,Moderate,60,9,5.0,225,270,315,360,405,450,540
+Rollerblading,Intense,High,60,15,8.5,340,408,476,544,612,680,816
+Jumping Jacks,Continuous,Moderate,60,,8.0,340,408,476,544,612,680,816
+Jumping Jacks,High Intensity,Very High,60,,11.0,470,564,658,752,846,940,1,128
+Stretching,Easy,Very Low,60,,2.3,95,114,133,152,171,190,228
+Fishing,Sitting,Very Low,60,,1.8,75,90,105,120,135,150,180
+Fishing,Standing,Low,60,,2.0,85,102,119,136,153,170,204
+Gardening,Light,Light,60,,3.5,110,132,154,176,198,220,264
+Gardening,Heavy,Moderate,60,,5.0,160,192,224,256,288,320,384
+Playing with kids,Moderate,Moderate,60,,6.0,240,288,336,384,432,480,576
+Playing with kids,Running,High,60,,9.0,350,420,490,560,630,700,840
+Dog walking,Leisure,Light,60,4,3.5,110,132,154,176,198,220,264
+Dog walking,Brisk,Moderate,60,6,5.0,200,240,280,320,360,400,480
+Shoveling snow,Moderate,Moderate,60,1,6.0,250,300,350,400,450,500,600
+Shoveling snow,Intense,Very High,60,1.5,10.0,400,480,560,640,720,800,960
+Stair climbing machine,Moderate,High,60,0.8,8.0,380,456,532,608,684,760,912
+Stair climbing machine,Intense,Very High,60,1,11.0,520,624,728,832,936,1,040,1,248
+Water aerobics,Gentle,Light,60,,3.0,120,144,168,192,216,240,288
+Volleyball,Recreational,Moderate,60,,4.0,175,210,245,280,315,350,420
+Volleyball,Competitive,High,60,,6.0,260,312,364,416,468,520,624
+Jumping on trampoline,Moderate,Moderate,60,,3.5,110,132,154,176,198,220,264
+Jumping on trampoline,Intense,High,60,,5.8,180,216,252,288,324,360,432
+Fencing,Competitive,High,60,,7.0,295,354,413,472,531,590,708
+Parkour,Training,Very High,60,,10.0,420,504,588,672,756,840,1,008
+Ice skating,Moderate,Moderate,60,8,7.0,310,372,434,496,558,620,744
+Ice skating,Fast,High,60,12,9.5,420,504,588,672,756,840,1,008
+Canoeing,Light,Low,60,4,3.0,130,156,182,208,234,260,312
+Canoeing,Racing,High,60,8,12.0,520,624,728,832,936,1,040,1,248
+Surfing,Bodyboard,Moderate,60,,4.0,175,210,245,280,315,350,420
+Surfing,Shortboard,High,60,,6.0,260,312,364,416,468,520,624
+Scuba diving,Recreational,Low,60,,3.0,130,156,182,208,234,260,312
+Scuba diving,High effort,High,60,,7.0,295,354,413,472,531,590,708
+Walking dog,Regular,Light,60,4,3.5,110,132,154,176,198,220,264
+Walking dog,Brisk,Moderate,60,6,5.0,200,240,280,320,360,400,480
+Playing drums,Rock,Moderate,60,,4.0,175,210,245,280,315,350,420
+Playing guitar,Standing,Low,60,,2.0,85,102,119,136,153,170,204
+Playing piano,Seated,Very Low,60,,2.0,85,102,119,136,153,170,204
+Singing,Choral,Low,60,,2.3,95,114,133,152,171,190,228
+Bowling,Leisure,Low,60,,3.0,130,156,182,208,234,260,312
+Archery,Target,Low,60,,2.5,110,132,154,176,198,220,264
+Laser tag,Children,Moderate,60,,5.0,225,270,315,360,405,450,540
+Paintball,Recreational,High,60,,8.0,340,408,476,544,612,680,816
+Ultimate frisbee,Game,High,60,,8.0,340,408,476,544,612,680,816
+Paddleboarding,Easy,Moderate,60,3,6.0,260,312,364,416,468,520,624
+Sailing,Leisure,Low,60,,3.0,130,156,182,208,234,260,312
+Wind surfing,Moderate,Moderate,60,,5.5,205,246,287,328,369,410,492
+Hang gliding,Recreational,Moderate,60,,3.5,110,132,154,176,198,220,264
+Paragliding,Recreational,Low,60,,2.5,110,132,154,176,198,220,264
+Skydiving,Jump (brief),Very High,5,,3.5,9,11,13,15,17,19,23
+Ballet,Dancing,Moderate,60,,4.8,210,252,294,336,378,420,504
+Contemporary dance,Performance,High,60,,7.8,340,408,476,544,612,680,816
+Cheerleading,Performance,High,60,,6.0,225,270,315,360,405,450,540
+Marching band,Parade,Moderate,60,,3.5,110,132,154,176,198,220,264
+Poledance,Fitness,High,60,,7.0,295,354,413,472,531,590,708
+Hula hoop,Performance,Moderate,60,,4.0,140,168,196,224,252,280,336
+Rope climbing,Intense,Very High,60,,10.0,420,504,588,672,756,840,1,008
+CrossFit,Class,Very High,60,,12.0,600,720,840,960,1,080,1,200,1,440
+HIIT,Tabata style,Very High,30,,14.0,363,436,508,581,654,727,872
+Handball,Competitive,Very High,60,,11.0,680,816,952,1,088,1,224,1,360,1,632
+Cricket,Batting,Low,60,,3.3,125,150,175,200,225,250,300
+Cricket,Bowling,Moderate,60,,5.5,205,246,287,328,369,410,492
+American football,Game,Very High,60,,9.0,535,642,749,856,963,1,070,1,284
+Softball,Recreational,Low,60,,3.5,110,132,154,176,198,220,264
+Baseball,Game,Moderate,60,,5.0,160,192,224,256,288,320,384
+Netball,Game,High,60,,7.0,295,354,413,472,531,590,708
+Field hockey,Game,Very High,60,,8.0,340,408,476,544,612,680,816
+Lacrosse,Game,Very High,60,,8.0,340,408,476,544,612,680,816
+Table tennis,Competitive,Moderate,60,,6.3,205,246,287,328,369,410,492
+Wrestling,Competitive,Very High,60,,6.0,225,270,315,360,405,450,540
+Wrestling,Intense,Intense,60,,10.0,420,504,588,672,756,840,1,008
+Judo,Class,Very High,60,,10.0,420,504,588,672,756,840,1,008
+Tai chi,Moderate,Low,60,,3.0,130,156,182,208,234,260,312
+Capoeira,Class,High,60,,7.5,320,384,448,512,576,640,768
+Aqua jogging,Water,Moderate,60,1.5,7.8,315,378,441,504,567,630,756
+Wheelchair use,Manual,Moderate,60,2,5.8,235,282,329,376,423,470,564
+Standing desk,Office,Very Low,60,,1.8,75,90,105,120,135,150,180
+Housework,Scrubbing floors,High,60,,6.0,250,300,350,400,450,500,600
+Washing car,Light,Light,60,,3.0,130,156,182,208,234,260,312
+Mowing lawn,Push mower,Moderate,60,,5.5,205,246,287,328,369,410,492
+Mowing lawn,Riding mower,Low,60,,2.5,110,132,154,176,198,220,264
+Raking leaves,Light,Light,60,,3.5,110,132,154,176,198,220,264
+Carrying groceries,Heavy,Moderate,60,,5.0,160,192,224,256,288,320,384
+Washing windows,Light,Light,60,,3.0,130,156,182,208,234,260,312
+Darts,Leisure,Very Low,60,,2.5,110,132,154,176,198,220,264
+Snooker,Leisure,Low,60,,2.5,110,132,154,176,198,220,264
+Chopping wood,Moderate,High,60,,6.0,250,300,350,400,450,500,600
+Sauna,Sitting,Very Low,30,,1.5,31,37,43,49,55,61,73
+Sauna,Cold plunge,Very Low,10,,1.5,10,12,14,16,18,20,24
